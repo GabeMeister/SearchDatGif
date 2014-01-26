@@ -3,8 +3,8 @@
 	<head>
 		<title></title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link rel="stylesheet" href="<?php asset_url('assets/css/mystyling.css'); ?>" type="text/css"/>
-		<link rel="stylesheet" href="<?php asset_url('assets/css/reset.css'); ?>" type="text/css" />
+		<link rel="stylesheet" href="<?php echo asset_url('assets/css/mystyling.css'); ?>" type="text/css"/>
+		<link rel="stylesheet" href="<?php echo asset_url('assets/css/reset.css'); ?>" type="text/css" />
 
 	</head>
 	<body>

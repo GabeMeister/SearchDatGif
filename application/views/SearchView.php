@@ -5,8 +5,8 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-		<link rel="stylesheet" href="<?php asset_url('assets/css/mystyling.css'); ?>" type="text/css"/>
-		<link rel="stylesheet" href="<?php asset_url('assets/css/reset.css'); ?>" type="text/css" />
+		<link rel="stylesheet" href="<?php echo asset_url('assets/css/mystyling.css'); ?>" type="text/css"/>
+		<link rel="stylesheet" href="<?php echo asset_url('assets/css/reset.css'); ?>" type="text/css" />
 
 
 	</head>

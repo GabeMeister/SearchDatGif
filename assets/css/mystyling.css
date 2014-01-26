@@ -7,3 +7,8 @@
 	
 	text-decoration: none;
 }
+
+input[type=checkbox] {
+/*	opacity: 0;
+	display: none;*/
+}
